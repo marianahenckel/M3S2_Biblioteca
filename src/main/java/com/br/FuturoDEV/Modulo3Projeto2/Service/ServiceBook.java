@@ -1,12 +1,12 @@
-package com.Modulo3Projeto2.Service;
+package com.br.FuturoDEV.Modulo3Projeto2.Service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.Modulo3Projeto2.Repository.RepositoryBook;
-import com.Modulo3Projeto2.models.Book;
+import com.br.FuturoDEV.Modulo3Projeto2.Repository.RepositoryBook;
+import com.br.FuturoDEV.Modulo3Projeto2.models.Book;
 
 
 @Service

@@ -1,5 +1,6 @@
-package com.Modulo3Projeto2.models;
+package com.br.FuturoDEV.Modulo3Projeto2.models;
 import jakarta.persistence.Entity;
+import jakarta.persistence.EnumType;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -15,5 +16,5 @@ public class Card {
     private String number;
     private Double limit;
     private Double currentLimit;
-    EnumTypeCard type; 
+    EnumType typeCard; 
 }

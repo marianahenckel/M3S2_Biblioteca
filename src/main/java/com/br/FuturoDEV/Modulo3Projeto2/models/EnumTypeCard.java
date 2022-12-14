@@ -1,4 +1,4 @@
-package com.Modulo3Projeto2.models;
+package com.br.FuturoDEV.Modulo3Projeto2.models;
 import jakarta.persistence.Entity;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,4 +1,4 @@
-package com.Modulo3Projeto2.Controllers;
+package com.br.FuturoDEV.Modulo3Projeto2.Controllers;
 
 
 import java.util.List;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.Modulo3Projeto2.Service.ServiceAuthor;
-import com.Modulo3Projeto2.models.Author;
+import com.br.FuturoDEV.Modulo3Projeto2.Service.ServiceAuthor;
+import com.br.FuturoDEV.Modulo3Projeto2.models.Author;
 
 
 @RestController

@@ -1,11 +1,11 @@
-package com.Modulo3Projeto2.Repository;
+package com.br.FuturoDEV.Modulo3Projeto2.Repository;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.stereotype.Repository;
 
-import com.Modulo3Projeto2.models.Book;
+import com.br.FuturoDEV.Modulo3Projeto2.models.Book;
 
 
 @Repository

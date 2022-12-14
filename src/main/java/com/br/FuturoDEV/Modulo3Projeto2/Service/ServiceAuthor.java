@@ -1,10 +1,10 @@
-package com.Modulo3Projeto2.Service;
+package com.br.FuturoDEV.Modulo3Projeto2.Service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.Modulo3Projeto2.Repository.RepositoryAuthor;
-import com.Modulo3Projeto2.models.Author;
+import com.br.FuturoDEV.Modulo3Projeto2.Repository.RepositoryAuthor;
+import com.br.FuturoDEV.Modulo3Projeto2.models.Author;
 
 import java.util.List;
 
